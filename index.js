@@ -26,7 +26,7 @@ const makeCoffee = (type, miligrams) => {
 }
 
 // cek apa mesin kopinya sudah siap
-  makeCoffee("robusta", 80);
+makeCoffee("robusta", 80);
 
 // ekspor function, lihat runMeFirst.js
 module.exports = makeCoffee;
