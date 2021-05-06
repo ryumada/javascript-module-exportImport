@@ -1,0 +1,22 @@
+{
+  "name": "coffeemachine-es6",
+  "version": "0.0.1",
+  "description": "clone of coffee machine using es6 syntax",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "es6",
+    "javascript",
+    "new",
+    "coffeemachine",
+    "coffee",
+    "machine",
+    "basic"
+  ],
+  "author": "ryumada",
+  "license": "ISC"
+}
