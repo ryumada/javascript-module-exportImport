@@ -1,0 +1,17 @@
+{
+  "name": "coffeemachine",
+  "version": "0.0.1",
+  "description": "It is a coffee machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "coffee",
+    "machine",
+    "latte"
+  ],
+  "author": "ryumada",
+  "license": "Apache-2.0"
+}
