@@ -1,0 +1,15 @@
+{
+  "name": "es6-mjs",
+  "version": "0.0.1",
+  "description": "module exports import using es6 and mjs files without type module",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "es6",
+    "mjs"
+  ],
+  "author": "ryumada",
+  "license": "ISC"
+}
